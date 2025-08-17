@@ -1,4 +1,4 @@
-# granite-geospatial-land-surface-temperature
+# DS-I Africa tool-a-thon 2025: granite-geospatial-land-surface-temperature
 
 Public notebooks and utilities for working with the fine-tuned granite.geospatial.land-surface-temperature model
 
