@@ -149,4 +149,3 @@ logs/
 */experiments/
 config.yaml
 .DS_Store
-assets/databases/global_cities_database.csv
