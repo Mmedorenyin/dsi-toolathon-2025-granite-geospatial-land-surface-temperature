@@ -1,5 +1,7 @@
 # DS-I Africa tool-a-thon 2025: granite-geospatial-land-surface-temperature
 
+This repo is intended solely for the DS-I Africa Tool-a-thon 2025 participants and is a copy of the original IBM granite-geospatial-land-surface-temperature repository along with some modifications.
+
 Public notebooks and utilities for working with the fine-tuned granite.geospatial.land-surface-temperature model
 
 ## Initial Setup
